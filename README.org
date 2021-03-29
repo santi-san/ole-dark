@@ -4,7 +4,32 @@
 * Ole-Dark
 Complete dark and customizable theme for [[https://www.ole.com.ar][Ole website]] with a few improvements and customizable options.
 
+#+HTML: <img src="https://raw.githubusercontent.com/santi-san/ole-dark/master/img/preview.png" width="100%"/>
 
 [[https://raw.githubusercontent.com/santi-san/ole-dark/master/ole-dark.user.css][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat]]
 
 #+HTML: </div>
+
+** Features
+- Custom backgrounds colors
+- Custom texts colors
+- Custom links colors
+
+** Installation
+You have to install [[https://add0n.com/stylus.html][Stylus]] and then click on the install link below.
+
+
+[[https://raw.githubusercontent.com/santi-san/ole-dark/master/ole-dark.user.css][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg]]
+
+** Contributions
+Any contribution is greatly appreciated.
+
+If you'd like to contribute code, please make sure to read the [[https://github.com/santi-san/ole-dark/blob/master/contributing.org][contribution
+guidelines]].
+
+If you really like this project and would like to tip me for my work, then you
+can:
+- Buy me a coffee over at [[https://ko-fi.com/satosan][ko-fi]]
+
+** License
+Code released under the [[license][MIT]] license.
