@@ -1,0 +1,20 @@
+#+STARTUP: nofold
+
+* Changelog
+** 1.0.1 [2021-03-29]
+
+*** Added
+- contributing guideline
+
+*** Fixed
+- Live Marcador text and backgrounds
+
+
+** 1.0.0 [2021-03-28]
+
+*** Added
+- initial version
+
+*** Improved
+- individual articles now have their own background.
+  + articles with auto height so now you can see all the entry excerpt and related articles.
