@@ -80,7 +80,7 @@
     
     
 /*---------LINKS------------*/    
-    a,.entry .entry-title a, h1,h2,h3,h4,h5,h6,.news .entry-head .breadcrumb span,strong, .footer-link,.estadisticasOpta .agenda-deportiva, .estadisticasOpta .estTitle,.opta-widget-container thead th,.opta-widget-container .comparison legend,span.ng-binding.ng-scope,div.fecha-title,.entry-box .mam,.modNot-33 .mam.mam-futbol .mam-tiempo,.col_12 > .entry.entry-box.existMam .mam-futbol .mam-tiempo,.news .entry-body .body-nota > h2 { 
+    a,.entry .entry-title a, h1,h2,h3,h4,h5,h6,.news .entry-head .breadcrumb span,strong, .footer-link,.estadisticasOpta .agenda-deportiva, .estadisticasOpta .estTitle,.opta-widget-container thead th,.opta-widget-container .comparison legend,span.ng-binding.ng-scope,div.fecha-title,.entry-box .mam,.modNot-33 .mam.mam-futbol .mam-tiempo,.col_12 > .entry.entry-box.existMam .mam-futbol .mam-tiempo,.news .entry-body .body-nota > h2,mark { 
         color: _link-color !important; 
     }
     
