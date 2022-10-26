@@ -1,6 +1,14 @@
 #+STARTUP: nofold
 
 * Changelog
+** 1.0.4 [2022-10-26] yyyy-dd-mm
+
+*** Update
+- Updated to the new layout of the website
+- Removed some ads
+- Isn't fully responsive at this time, but looks better.
+
+
 ** 1.0.1 [2021-03-29]
 
 *** Added
